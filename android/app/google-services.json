@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593198340126",
+    "firebase_url": "https://osborn-digimoney.firebaseio.com",
+    "project_id": "osborn-digimoney",
+    "storage_bucket": "osborn-digimoney.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593198340126:android:9e5207a08d85be5d10360f",
+        "android_client_info": {
+          "package_name": "ne.digitaliita.osborn.osborn_digimoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593198340126-mfg27e8p9q4lm1lr68sut474tdame9rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa_39vdpN4R-lq1Zo46kdo-p5Uwd1MQq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593198340126-mfg27e8p9q4lm1lr68sut474tdame9rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
